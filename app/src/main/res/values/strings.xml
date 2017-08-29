@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerTutorial</string>
+    <string-array name="programming_language">
+        <item>Java</item>
+        <item>C/C++</item>
+        <item>C#</item>
+        <item>PHP</item>
+        <item>Ruby</item>
+        <item>Perl</item>
+        <item>Python</item>
+        <item>Swift</item>
+        <item>Kotlin</item>
+        <item>Scala</item>
+        <item>JavaScript</item>
+        <item>Go</item>
+    </string-array>
+</resources>
